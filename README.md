@@ -1,4 +1,4 @@
-# Kickstater-Classification-and-Predition-project.
+# Kickstater-Classification Project.
 Data science Class Project
 
 ### Project Overview : Crowd Funding Data Analysis for Kickstarter
